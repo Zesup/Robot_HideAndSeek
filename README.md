@@ -6,7 +6,7 @@ Une fois l'apprentissage fait, nous avons un temps donné pour cacher l'objet da
 Dès que ce temps est écoulé, le système se mets à chercher l'objet grâce au flux vidéo de la caméra.
 Le système possède un axe sur lequel la caméra peut s'orienter.
 
-
+-
 
 La librairie qui sera utilisé sera OpenCV.
 Le langage utilisé sera C++.
